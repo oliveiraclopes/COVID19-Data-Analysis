@@ -1,4 +1,4 @@
-# COVID19 Data Analysis
+# COVID19 Data Analysis 🔬
 
 ## Description
 This project provides an analysis of COVID-19 cases across countries using publicly available data. The analysis focuses on visualizations that highlight the top five countries with the highest total cases.
