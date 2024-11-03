@@ -24,7 +24,7 @@ The dataset used for this project is sourced from [Worldometer](https://www.worl
     
 3. Run the analysis script:
     ```bash
-    python meu_script.py
+    python corona-virus-report.py
 
 ## Visualizations
 The project generates visualizations that provide insights into the COVID-19 pandemic, specifically focusing on the top five countries with the most cases.
